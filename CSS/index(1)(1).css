@@ -1,0 +1,27 @@
+h1{
+    color: red;
+    height:80px ;
+    width: 100%;
+    text-align: center;
+}
+img{
+    border-radius:50px ;
+    height: 350px; ;
+    width:250px ;
+}
+h2{
+    color:brown ;
+    height: 50px;
+    width: 100px;
+}
+h3{
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+}
+button{
+    background-color:beige;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
